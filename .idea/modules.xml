@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/fastacampus-devops-testcode-example.iml" filepath="$PROJECT_DIR$/fastacampus-devops-testcode-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-example.iml" filepath="$PROJECT_DIR$/java-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-example.integrationTest.iml" filepath="$PROJECT_DIR$/.idea/modules/java-example.integrationTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-example.main.iml" filepath="$PROJECT_DIR$/.idea/modules/java-example.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-example.native-test.iml" filepath="$PROJECT_DIR$/.idea/modules/java-example.native-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-example.quarkus-generated-sources.iml" filepath="$PROJECT_DIR$/.idea/modules/java-example.quarkus-generated-sources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-example.quarkus-test-generated-sources.iml" filepath="$PROJECT_DIR$/.idea/modules/java-example.quarkus-test-generated-sources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-example.test.iml" filepath="$PROJECT_DIR$/.idea/modules/java-example.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/python-example/python-example.iml" filepath="$PROJECT_DIR$/python-example/python-example.iml" />
+    </modules>
+  </component>
+</project>

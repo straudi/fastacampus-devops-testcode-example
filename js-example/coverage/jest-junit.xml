@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="5" failures="0" errors="0" time="3.591">
+  <testsuite name="Calculator Integration" errors="0" failures="0" skipped="0" timestamp="2026-08-31T09:51:19" time="2.721" tests="1">
+    <testcase classname="Calculator Integration complex calculations" name="Calculator Integration complex calculations" time="0.017">
+    </testcase>
+  </testsuite>
+  <testsuite name="Calculator" errors="0" failures="0" skipped="0" timestamp="2026-08-31T09:51:19" time="2.788" tests="4">
+    <testcase classname="Calculator add" name="Calculator add" time="0.018">
+    </testcase>
+    <testcase classname="Calculator subtract" name="Calculator subtract" time="0.002">
+    </testcase>
+    <testcase classname="Calculator multiply" name="Calculator multiply" time="0.002">
+    </testcase>
+    <testcase classname="Calculator divide" name="Calculator divide" time="0.023">
+    </testcase>
+  </testsuite>
+</testsuites>
