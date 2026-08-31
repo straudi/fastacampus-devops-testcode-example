@@ -1,7 +1,6 @@
 plugins {
     id 'java'
     id 'jacoco'
-    id 'io.quarkus' version '3.0.0.Final'
 }
 
 group = 'org.example'
